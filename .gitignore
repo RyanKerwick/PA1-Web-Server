@@ -3,3 +3,6 @@ server
 submission.tar
 submission2.tar
 www
+functions.o
+main.o
+grade.py
